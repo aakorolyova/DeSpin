@@ -1,0 +1,949 @@
+   1471-2466-12-69
+   1471-2466
+      Research article
+            Singing classes for chronic obstructive pulmonary disease: a randomized controlled trial
+
+               Lord
+               M
+               Victoria
+
+               v.lord@rbht.nhs.uk
+
+               Hume
+               J
+               Victoria
+
+               v.hume@rbht.nhs.uk
+               Kelly
+               L
+               Julia
+               j.kelly@rbht.nhs.uk
+               Cave
+               Phoene
+               phoene.cave@ntlworld.com
+               Silver
+               Judith
+               info@judithsilver.com
+               Waldman
+               Maya
+               singingforeveryone@googlemail.com
+               White
+               Chris
+               chris@chriswhite.info
+               Smith
+               Cayley
+               cayleys@yahoo.com
+               Tanner
+               Rebecca
+               r.tanner@rbht.nhs.uk
+               Sanchez
+               Melissa
+               m.sanchez@rbht.nhs.uk
+               Man
+               D-C
+               William
+               w.man@rbht.nhs.uk
+               Polkey
+               I
+               Michael
+               m.polkey@rbht.nhs.uk
+               Hopkinson
+               S
+               Nicholas
+               n.hopkinson@ic.ac.uk
+               NIHR Respiratory Biomedical Research Unit at Royal Brompton and Harefield NHS Foundation Trust and Imperial College, Sydney Street, London, SW3 6NP, UK
+         BMC Pulmonary Medicine
+         1471-2466
+         2012
+         12
+         1
+         69
+         http://www.biomedcentral.com/1471-2466/12/69
+               10.1186/1471-2466-12-69
+               23145504
+               15
+               5
+               2012
+               7
+               11
+               2012
+               13
+               11
+               2012
+         2012
+         Lord et al.; licensee BioMed Central Ltd.
+         This is an Open Access article distributed under the terms of the Creative Commons Attribution License (
+				http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+         COPD
+         Singing
+         Qualitative
+         Randomised controlled trial
+         Rehabilitation
+               Abstract
+                  Background
+               There is some evidence that singing lessons may be of benefit to patients with chronic obstructive pulmonary disease (COPD). It is not clear how much of this benefit is specific to singing and how much relates to the classes being a group activity that addresses social isolation.
+                  Methods
+               Patients were randomised to either singing classes or a film club for eight weeks. Response was assessed quantitatively through health status questionnaires, measures of breathing control, exercise capacity and physical activity and qualitatively, through structured interviews with a clinical psychologist.
+                  Results
+               The singing group (n=13 mean(SD) FEV1 44.4(14.4)% predicted) and film group (n=11 FEV1 63.5(25.5)%predicted) did not differ significantly at baseline. There was a significant difference between the response of the physical component score of the SF-36, favouring the singing group +12.9(19.0) vs -0.25(11.9) (p=0.02), but no difference in response of the mental component score of the SF-36, breathing control measures, exercise capacity or daily physical activity. In the qualitative element, positive effects on physical well-being were reported in the singing group but not the film group.
+                  Conclusion
+               Singing classes have an impact on health status distinct from that achieved simply by taking part in a group activity.
+                  Trials registration
+               Registration Current Controlled Trials - ISRCTN17544114
+            Background
+         Despite optimal treatment with pharmacological agents and pulmonary rehabilitation, many patients with chronic obstructive pulmonary disease (COPD) continue to be symptomatic
+				12. A range of additional strategies to combat breathlessness have been trialed in respiratory patients
+				3, including pursed lip breathing
+				45, yoga and Tai Chi
+				6789 and laughter
+				10. There is evidence that singing can have beneficial effects on wellbeing in healthy
+				11 and chronic disease populations
+				1213. Since singing requires the use and mastery of techniques to control breathing, it is a plausible therapy for patients with respiratory disease and on the basis of a small number of clinical trials
+				141516 the recently published IMPRESS British Thoracic Society Guidelines for Pulmonary Rehabilitation, have suggested that singing can be considered as an adjunct to this therapy
+				17.
+         We recently reported results from a pilot randomized controlled trial of singing classes for patients with COPD
+				15. This showed that singing improved quality of life and anxiety but did not improve control of breathing measures, or functional exercise capacity. Patients who had participated in the trial reported benefits in their physical performance and general well-being as well as a sense of achievement and self-efficacy. Participants in an open program of singing classes were also overwhelmingly positive about the experience.
+         Based on these initial findings, we modified the protocol in several ways. Firstly, the control group had received &#8220;usual care&#8221; so it was possible that the benefits experienced were due to a non-specific effect of social interaction. Social isolation is an important issue for older people in general
+				18 and patients with COPD specifically
+				19. We therefore incorporated an active control arm where participants took part in a film group. Secondly, the singing teacher had reported that she felt that after six weeks she was &#8220;only just starting to make progress&#8221; with many of the participants. Feedback from participants supported this, so the trial duration was increased to eight weeks. Thirdly, although the initial trial found no change in functional exercise capacity, assessed using the incremental shuttle walk test, patients reported that they felt able to do more and cope better with daily tasks, so we added physical activity monitoring to see if this translated into changes in daily activity. Finally, given the results of our initial trial the primary outcome was health status rather than the control of breathing measures adopted in the initial study.
+         The primary hypothesis of the present study was therefore that singing lessons would lead to a greater improvement in health status than a film studies group. In addition to health status, measures of exercise capacity, physical activity and breathing control were also assessed.
+            Methods
+         Patients with COPD, diagnosed according to the GOLD guidelines, who were attending respiratory clinics at Royal Brompton and Harefield NHS Foundation Trust, were invited to participate. The trial was approved by the Brompton, Harefield and NHLI Research Ethics Committee. The trial procedures were explained to potential participants and all who took part in the trial gave written informed consent.
+               Baseline assessments
+            Participants completed the Hospital Anxiety and Depression Scale (HADS)
+					20, COPD assessment test (CAT) score
+					21, and the Short Form 36 (SF-36) questionnaire
+					22. Functional exercise capacity was assessed using the incremental shuttle walk test (ISWT) with time to recovery of oxygen saturation, Borg dyspnoea score and heart rate following the walk also documented
+					23.
+            Control of breathing was assessed using two measures in routine use in the physiotherapy department for the assessment of hyperventilation; a breath hold test where subjects held their breath from maximum inspiration
+					2425 and single breath counting where subjects were instructed to breathe in and then count out loud in time with a metronome running at 60 beats/min
+					16. The mean of three satisfactory attempts at each manoeuvre was recorded.
+            Each subject was then given a SenseWear Pro (SenseWear, Body Media, Pittsburgh, USA) activity monitor wear for one week prior to commencing their sessions and given written instructions on its usage and cleaning.
+               Interventions
+            All subjects received a thirty minute standard session on breathing control and techniques to manage breathlessness, delivered by one of three senior respiratory physiotherapists involved in the study. Pursed lip breathing and nose breathing were also discussed in relation to managing episodes of shortness of breath. Each subject received a standard Royal Brompton Hospital &#8220;Help Yourself - physiotherapy for people with respiratory symptoms&#8221; booklet
+					15 and was advised to practice the techniques at home. At the end of the baseline visit, patients were randomized to either the singing classes or the film workshops, using randomization in blocks of 4 through consecutive sequentially numbered sealed envelopes. The sequence was developed by NSH who was not involved with the day to day conduct of the trial. Patients in both groups continued on their usual medications throughout.
+            The singing classes were held twice weekly for eight weeks and led by one of three singing teachers (MW, JS, PC). Each session lasted for one hour, and encompassed vocal exercises, posture and relaxation. The conduct of the singing groups is described elsewhere
+					15. Subjects allocated to this group were given a CD of physical warm-ups, breathing exercises and songs to practice at home daily.
+            The film workshops were held once weekly and coordinated by a film-studies graduate (CW). Subjects watched the film together and then discussed any salient points in the workshop afterwards for about an hour. Films watched were as follows: Hable Con Ella, Local Hero, Vicky Cristina Barcelona, Point Blank, Punch Drunk Love, The Fog of War, Fargo, The Truman Show, Sunset Boulevard, Goodbye Lenin, Pan's Labyrinth, Double Indemnity, Shadow of a Doubt, The L Shaped Room, I Heart Huckabees, Little Miss Sunshine, The Fall, Vertigo.
+            The co-coordinators of each session were unaware of the tests measured at baseline.
+            Following attendance to either group for eight weeks, baseline measurements were again assessed by the same respiratory physiotherapists, who were blinded to treatment allocation. Subjects were asked not to discuss which group they had been allocated to. Study participants again wore the physical activity monitors for a further week and these were to be returned to the hospital on completion.
+            Statistical analysis was performed using StatView 5.0. Change in quantitative outcome measures between both groups was assessed using ANCOVA with baseline values included as covariates. Primary outcome was health related quality of life assessed using the SF-36. Based on our initial pilot data
+					15 with a standard deviation of 14.6 a 10 point difference in &#916;SF-36 between groups would require a sample size of 20 to have a 90% power assuming a 2 tailed test and a significance level of &lt;0.05.
+               Qualitative assessments
+            Following completion of the randomized control study, a clinical psychologist interviewed a sample of subjects from each group. The structured interviews lasted for thirty minutes and used the same template as in our previous study
+					15. Subjects were asked to discuss their perception of any physical and emotional benefits or harm they had experienced from attending the sessions. They were assured that their responses would be anonymous and that they could make negative comments if they wished.
+            Results
+               Comparison of response in singing and film groups
+            The study took place between April 2010 and February 2011. Participation in the study is described in the CONSORT diagram (Figure
+					1). One hundred and eighty-three patients were approached to participate. One hundred and fifty declined to take part. Eighteen patients were allocated to the singing group and fifteen to the film one. Of the singing group, five subjects withdrew once the sessions had begun. In the film group, one subject died after randomization but before attending any sessions and three subjects withdrew from the study once the sessions had begun. Data are therefore presented on the thirteen subjects in the singing group and eleven in the film group who completed the study. Baseline characteristics of the two groups did not differ significantly (Table
+					1). Median number of sessions attended was 14.5 in the singing group and 7 in the film group.
+                  Figure 1
+                  CONSORT diagram describing progress of the study
+                  CONSORT diagram describing progress of the study.
+                  Table 1
+                  Baseline characteristics
+                        Total (n=24)
+                        Singing group (n=13)
+                        Control group (n=11)
+                     FEV1 forced expiratory volume in one second; CAT, COPD assessment test score; HAD, hospital anxiety and depression score; SF-36 short form 36 health status score; PCS, physical component score; MCS, mental component score; ISWT incremental shuttle walk test; HR, heart rate (all p>0.05).
+                        Age (yrs)
+                        68.3 (9.7)
+                        68.6 (10.7)
+                        67.9 (8.8)
+                        FEV1% predicted
+                        53.1 (22.0)
+                        44.4 (14.4)
+                        63.5 (25.5)
+                        Exacerbation rate yr-1
+                        1.83 (2.1)
+                        2.00 (2.6)
+                        1.64 (1.4)
+                        Breath Hold (s)
+                        27.8 (12.2)
+                        29.0 (13.8)
+                        26.3 (10.6)
+                        Single Breath Counting (n)
+                        19.8 (9.0)
+                        21.5 (9.8)
+                        17.9 (8.1)
+                        HAD anxiety
+                        5.58 (3.3)
+                        5.69 (3.3)
+                        5.45 (3.6)
+                        HAD depression
+                        6.00 (3.6)
+                        7.23 (3.6)
+                        4.5 (3.3)
+                        SF36 PCS
+                        42.8 (18.2)
+                        36.5 (13.8)
+                        50.3 (20.6)
+                        SF36 MCS
+                        53.6 (20.9)
+                        48.2 (20.8)
+                        60.0 (20.1)
+                        CAT score
+                        18.9 (8.86)
+                        19.0 (10.03)
+                        19.0 (7.7)
+                        ISWT (m)
+                        321.7 (168.9)
+                        275.4 (196.1)
+                        376.4 (115.6)
+                        O2 satn recovery (s)
+                        35.1 (44.8)
+                        43.2 (5)
+                        95.4 (50.2)
+                        HR recovery (s)
+                        147.5 (82.8)
+                        144.4 (89.6)
+                        25.5 (30.3)
+                        Subjective recovery (s)
+                        92.6 (47.8)
+                        90.3 (47.6)
+                        151.1 (78.1)
+                        Steps (steps per day)
+                        5791 (3463)
+                        5277(3794)
+                        6525 (3051)
+                        Sedentary time (minutes per day)
+                        856 (358)
+                        934(262)
+                        744 (463)
+                        Physical activity duration (minutes per day)
+                        457(263)
+                        535(309)
+                        402 (226)
+                        Active energy expenditure (KJ per day)
+                        1098(602)
+                        1009 (506)
+                        1223 (742)
+            There were no significant differences between groups in the response of measures of breathing control, functional exercise capacity or daily physical activity (Table
+					2). However, although there were similar improvements in the mental component score of the SF-36 in both groups; Singing +9.3(25.3) vs Film +4.3(9.0) (p=0.41) there was a significant difference between the response of the physical component score favouring the singing group +12.9(19.0) vs -0.25(11.9) (p=0.02).
+                  Table 2
+                  Response to intervention
+                        Singing group (n=13)
+                        Control group (n=11)
+                        p value
+                     FEV1 forced expiratory volume in one second; CAT, COPD assessment test score; HAD, hospital anxiety and depression score; SF-36 short form 36 health status score; PCS, physical component score; MCS, mental component score; ISWT incremental shuttle walk test; HR, heart rate. (*p&lt;0.05).
+                        Breath hold time (s)
+                        &#8722;1.64 (4.1)
+                        2.39 (7.8)
+                        0.14
+                        Single breath counting
+                        1.5 (7.1)
+                        7.0 (7.8)
+                        0.15
+                        HAD anxiety
+                        &#8722;0.8 (3.6)
+                        &#8722;0.9 (2.3)
+                        0.89
+                        HAD depression
+                        &#8722;1.3 (3.8)
+                        &#8722;0.7 (1.6)
+                        0.49
+                        CAT
+                        &#8722;1.1 (8.3)
+                        0.7 (5.6)
+                        0.44
+                        SF36 PCS
+                        12.9 (19.0)
+                        &#8722;2.5 (11.9)
+                        0.02*
+                        SF36 MCS
+                        9.3 (25.3)
+                        4.3 (9.0)
+                        0.41
+                        ISWT (m)
+                        &#8722;7.2 (46.1)
+                        14.5 (38.0)
+                        0.22
+                        Steps (steps per day)
+                        &#8722;763 (1647)
+                        1011 (1003)
+                        0.14
+                        Sedentary time (minutes per day)
+                        &#8722;35.9 (127.3)
+                        &#8722;27.3 (67.0)
+                        0.66
+                        Physical activity duration (PAD) (minutes per day)
+                        &#8722;92.7 (216.9)
+                        49.5 (40.9)
+                        0.16
+                        Active energy expenditure (AEE) (KJ per day)
+                        &#8722;144.2 (436.0)
+                        228.8 (146.3)
+                        0.19
+               Qualitative survey of patient experiences
+            Nine subjects who had taken part in the study were interviewed: five singers and four from the film group. One interview was conducted via telephone; the remaining eight interviews took place at the Hospital. As in our previous study, these are presented in terms of physical and general wellbeing, with the latter divided into sub-categories.
+            All participants in the singing group reported positive physical effects in relation to their breathing following attendance at the singing group. In particular, they reported being more aware of their breathing and how to control it more effectively. Comments included: &#8220;Helped my fitness&#8230;using the breathing technique in the gym and everyday life&#8221; &#8220;Have more control over my breathing&#8230;know how to use my breath more&#8221; &#8220;Group was good&#8230;bit like a Pilates workout but better than going to the gym which is boring&#8221; &#8220;Feel I&#8217;m doing a bit more light housework, like sweeping and laundry&#8221; &#8220;Learnt something about breathing through the singing and about pacing&#8221;. Two participants reported multiple physical health conditions. They both reported that they felt that it had been hard to assess any physical benefits due to their multiple conditions.
+            In general, film group participants did not feel they received any positive physical effects from attending the sessions. One participant felt that attendance at the film group had been good for his health &#8220;in terms of enjoyment&#8221;.
+            The singing group participants reported multiple benefits in terms of their general wellbeing. Relating to mood and pleasure, participants reported: &#8220;Helped with my mood&#8221;, &#8220;Nice to be doing something pleasant with a chronic illness&#8221; &#8220;Great fun&#8221; &#8220;Enjoyed talking to others about singing&#8221; &#8220;Depressing being in all the time&#8230;group got me out of the house&#8221; &#8220;Immensely enjoyed it&#8221; &#8220;Positive impact on my mood&#8230;we&#8217;re singing in the pub tonight for the open mic&#8221;.
+            The singing group participants reported that they had experienced a sense of community and social support: &#8220;Being around others with COPD prepares me for the future&#8230;helps me to learn more about my illness&#8221; &#8220;Others understood what I was saying about my chest&#8230;gave me tips to talk to my doctor about&#8221; &#8220;Meeting other people with similar illness helped&#8230;felt like everyone understood me&#8230;didn&#8217;t look down on me like at the gym&#8221; &#8220;Peer support&#8230;people the same as you are!&#8221; &#8220;Nobody was judgmental!&#8221; &#8220;Psychological benefit of seeing people&#8221;.
+            In terms of achievement and efficacy, singers reported: &#8220;Want to build singing into daily routine&#8230;helps me to overcome difficulties&#8221; &#8220;Hadn&#8217;t felt like going out before course due to breathing problems&#8230;now feel I can overcome anything&#8221; &#8220;Had forgotten how much I enjoyed singing&#8221; &#8220;Singing group got me out of the house&#8221;.
+            A singing group facilitator commented that sixteen sessions seemed about the right duration but that mixed ability classes were challenging and that this could be more difficult with a rolling program where new people were joining the group.
+            Participants in the film group did report some positive effects on their general well-being. In terms of mood and pleasure: &#8220;Enjoyed movies and enjoyed learning from group leader&#8221; &#8220;Enjoyed it&#8230;I don&#8217;t relax a lot&#8221; One participant reported negative effects the film group had had on her general well-being: &#8220;Increased my anxiety&#8230;I&#8217;m a very religious person&#8230;lots of films I wouldn&#8217;t choose to see&#8230;relieved it&#8217;s over&#8221;. In the film group participants did experience a sense of community and social support: &#8220;Like a club day&#8230;mixing and meeting different people&#8221; &#8220;Good discussions&#8221; &#8220;Sense of social support&#8221; &#8220;Felt supported by peers in group&#8221;. One participant reported the film group was not large enough to provide social support. In terms of achievement and efficacy: &#8220;Group made me get out of the house which is important&#8221; &#8220;Made me think about things differently&#8221; &#8220;New experience&#8230;wouldn&#8217;t have done it normally.&#8221;
+            The film group participants felt that there had been little benefit in attending the group but that it had not caused them any significant harm either. All the film group participants reported that they would like to enrol in the singing classes due to the benefit they perceived would come from that approach.
+            The findings highlighted how enjoyable the participants found the singing group. As well as providing social support, participants felt that the group had had lasting positive physical effects in terms of their breathing techniques. All the participants were keen to continue to use what they had learned within the group. Participants felt that they had achieved something both personally and physically.
+            In comparison, the participants from the film group did not report any significant positive physical effects from their group attendance although they had in general enjoyed the experience and felt they had gained some social support from attending. Part of the process of the film club sessions involved considerable discussion amongst the subjects on topics raised by the film they had just seen, and on the films that they had been inspired to see in their own time. These discussions could last up to an hour and increased over the weeks the film club sessions ran. The facilitator reported that &#8220;It did seem to me that talking this much was often an effort for them but they were motivated to carry on. It also seemed to me that there was initially insecurity towards involvement with the group discussions, but this slowly dissolved&#8221;.
+            Discussion
+         The main findings of this study are that 1) the singing classes were associated with an improvement in the physical component score of the SF-36 compared to the film group which exceeded the minimum clinically important difference for this test
+				26. 2) Qualitative data from interviews with participants highlighted perceived physical and psychological benefits from attending singing rather than the film group although experiences of the latter were generally positive. 3) The difference in perceived improvements between the two groups was not accompanied by differences in measures of breathing control, functional exercise capacity or daily physical activity.
+               Significance of findings
+            The present data develop the findings of our previous work in this area which showed improvements in health status and a positive patient experience associated with participation in singing classes
+					15. In the previous study the control group received only usual care so it was possible that the reported benefits were due to a reduction in social isolation. A strength of the present study is that there was an active control group who took part in a group activity which means that some of the &#8220;generic&#8221; effects of group activity on social isolation can be discounted. Thus although the film group reported that the experience was generally positive they did not report improvements in their physical health in contrast to the singing group.
+            In addition to our previous study
+					15 we are aware of one other controlled trial of singing in patients with COPD. In that study patients either attended singing classes, or a handicraft class once a week for 6 months
+					14. Although singing practice produced an acute improvement in inspiratory capacity, SGRQ improved equally in both groups. Exercise capacity was not assessed.
+            Patients with COPD have increased operating volumes, increased neural drive and display changes in the excitability of corticospinal pathways to the diaphragm
+					27282930 meaning that there are a range of mechanisms through which relief of breathlessness could occur. The improvement in health status may have arisen directly through effects on breathing pattern, posture or the learning of techniques to hasten recovery from episodes of dyspnoea but we have no specific data on physiological changes to address these questions. Interestingly, these perceived improvements were not reflected in objective outcome measures. This was a relatively small pilot study but it does raise interesting questions about the appropriateness of outcome measures for this sort of complex and relatively personalized intervention. Although they were not significantly different, the control of breathing measures, as in our previous pilot, paradoxically favored the non-singing group. These tests were developed for evaluating hyperventilation so may not be appropriate for COPD patients. As both relate to breath-holding it may be that participants in the singing group had learned to make a more relaxed and thus less deep inhalation leading to worse performance on these specific tests.
+            Physical activity limitation is an important feature of COPD being associated with muscle weakness, more rapid disease progression and reduced health status
+					313233 so the absence of improvement in measures of physical activity was disappointing but may have been due to the small sample size, as responses were highly variable.
+            Many patients approached did not wish to participate. A range of reasons were cited, many logistical, including the time commitment and believing that singing would be helpful so not therefore wishing to be randomized to the non-singing control arm. Of note, all of the film group participants wanted to go on to take part in singing classes. Translating this into clinical practice, singing is more likely to be of benefit to patients who believe it will be helpful. The present data suggest that singing does produce specific benefits and that participation in singing classes should be encouraged where these are available. It is certainly not a substitute for a proper multidisciplinary pulmonary rehabilitation program
+					234 and further work is needed to see if it can be applied directly as an adjunct during pulmonary rehabilitation or perhaps as an element of a continuation program.
+            A further practical issue is the duration of the intervention. Different models are possible ranging from an intensive one to one approach continued indefinitely through a fixed period of sessions through to a long term group approach with flexible participation. Decisions about this are likely to be dependent on practical and economic factors. A rolling rather than a fixed program may offer greater flexibility for participants but has the disadvantage that this may impede the group&#8217;s progression as they acquire new skills because &#8220;beginners&#8221; will need to be taught basic techniques. It is also worth noting that over half the session-time was normally spent on physical warm-ups, breathing exercises and singing exercises; under half singing songs: this proportion is perhaps different to a &#8216;normal&#8217; community singing group in its emphasis on technique over song. A further issue is group size. Sessions usually involved 4 to 6 people and this would be a different experience to taking part in a larger choir an issue that could be addressed in future work.
+            A limitation of the study is that the singing group was twice weekly and the film discussion weekly which may have influenced the &#8220;dose&#8221; of social interaction with the singing group spending more time in the group activity. However, the qualitative data suggest that both interventions had social effects of a similar nature but that participants in the film group experienced no &#8220;physical&#8221; effect, making it unlikely that there would have been a different outcome if the film group had met more frequently.
+            Conclusion
+         The present data suggest that singing has specific effects of physical wellbeing and taken together with other small studies support the concept that participation in singing lessons may be a useful activity for patients with COPD.
+            Competing interests
+         The authors declare they have no competing interests.
+            Authors&#8217; contributions
+         NSH, VML, VJH, PC, JLK and MIP conceived the study; VML, CS, MS, RT and JLK performed the study measurements. PC, JS, PC and CW delivered the study interventions. VML, VJH, AE and NSH performed the data analysis. VML and NSH wrote the first draft of the paper to which all authors subsequently made contributions. All authors read and approved the final manuscript.
+               Acknowledgements
+            This study was funded by Royal Brompton and Harefield Arts (rb&amp;hArts), thanks to the Ian Adam Memorial Concert and by the NIHR Respiratory Disease Biomedical Research Unit at the Royal Brompton &amp; Harefield NHS Foundation Trust and Imperial College London, who part fund MIP&#8217;s salary. We would like to thank the patients who gave their time to participate in the study.
+               Health Status Assessment in Routine Clinical Practice: The Chronic Obstructive Pulmonary Disease Assessment Test Score in Outpatients
+                  Kelly
+                  JL
+                  Bamsey
+                  O
+                  Smith
+                  C
+                  Lord
+                  VM
+                  Shrikrishna
+                  D
+                  Jones
+                  PW
+                  Polkey
+                  MI
+                  Hopkinson
+                  NS
+            Respiration
+            2012
+            84
+            193
+            199
+                  10.1159/000336549
+                  22441322
+               The COPD assessment test (CAT): response to pulmonary rehabilitation. A multicentre, prospective study
+                  Dodd
+                  JW
+                  Hogg
+                  L
+                  Nolan
+                  J
+                  Jefford
+                  H
+                  Grant
+                  A
+                  Lord
+                  VM
+                  Falzon
+                  C
+                  Garrod
+                  R
+                  Lee
+                  C
+                  Polkey
+                  MI
+            Thorax
+            2011
+            66
+            5
+            425
+            429
+                  10.1136/thx.2010.156372
+                  21398686
+               Non-pharmacological interventions for breathlessness in advanced stages of malignant and non-malignant diseases
+                  Bausewein
+                  C
+                  Booth
+                  S
+                  Gysels
+                  M
+                  Higginson
+                  I
+            Cochrane Database Syst Rev
+            2008
+            2
+            CD005623
+               18425927
+               An evaluation of the acute impact of pursed lips breathing on walking distance in nonspontaneous pursed lips breathing chronic obstructive pulmonary disease patients
+                  Garrod
+                  R
+                  Dallimore
+                  K
+                  Cook
+                  J
+                  Davies
+                  V
+                  Quade
+                  K
+            Chron Respir Dis
+            2005
+            2
+            2
+            67
+            72
+                  10.1191/1479972305cd068oa
+                  16279153
+               Evidence underlying breathing retraining in people with stable chronic obstructive pulmonary disease
+                  Dechman
+                  G
+                  Wilson
+                  CR
+            Phys Ther
+            2004
+            84
+            12
+            1189
+            1197
+               15563259
+               Efficacy and Tolerability of Yoga Breathing in Patients With Chronic Obstructive Pulmonary Disease: A Pilot study
+                  Pomidori
+                  LP
+                  Campigotto
+                  FMD
+                  Amatya
+                  TMMD
+                  Bernardi
+                  LMD
+                  Cogo
+                  AMD
+            J Cardiopulm Rehabil Prev
+            2009
+            29
+            2
+            133
+            137
+               19305239
+               Yoga therapy decreases dyspnea-related distress and improves functional performance in people with chronic obstructive pulmonary disease: a pilot study
+                  Donesky-Cuenco
+                  D
+                  Nguyen
+                  HQ
+                  Paul
+                  S
+                  Carrieri-Kohlman
+                  V
+            J Altern Complement Med
+            2009
+            15
+            3
+            225
+            234
+                  10.1089/acm.2008.0389
+                  3051406,3051406
+                  19249998
+               Effect of Yoga in Chronic Obstructive Pulmonary Disease
+                  Fulambarker
+                  A
+                  Farooki
+                  B
+                  Kheir
+                  F
+                  Copur
+                  AS
+                  Srinivasan
+                  L
+                  Schultz
+                  S
+            Am J Ther
+            2012
+            19
+            2
+            96
+            100
+                  110.1097/MJT.1090b1013e3181f1092ab1086
+                  21048431
+               Tai chi Qigong improves lung functions and activity tolerance in COPD clients: a single blind, randomized controlled trial
+                  Chan
+                  AWK
+                  Lee
+                  A
+                  Suen
+                  LKP
+                  Tam
+                  WWS
+            Complement Ther Med
+            2011
+            19
+            1
+            3
+            11
+                  10.1016/j.ctim.2010.12.007
+                  21296261
+               Impact of laughter on air trapping in severe chronic obstructive lung disease
+                  Brutsche
+                  MH
+                  Grossman
+                  P
+                  Muller
+                  RE
+                  Wiegand
+                  J
+                  Pello
+                  Baty
+                  F
+                  Ruch
+                  W
+            Int J Chron Obstruct Pulmon Dis
+            2008
+            3
+            1
+            185
+            192
+                  2528214
+                  18488442
+               The perceived benefits of singing: findings from preliminary surveys of a university college choral society
+                  Clift
+                  SM
+                  Hancox
+                  G
+            J R Soc Promot Health
+            2001
+            121
+            4
+            248
+            256
+                  10.1177/146642400112100409
+                  11811096
+               The impact of group singing on mood, coping, and perceived pain in chronic pain patients attending a multidisciplinary pain clinic
+                  Kenny
+                  DT
+                  Faunce
+                  G
+            J Music Ther
+            2004
+            41
+            3
+            241
+            258
+               15327342
+               Therapeutic effects of music and singing for older people
+                  Skingley
+                  A
+            Nurs Stand
+            2010
+            24
+            19
+            35
+            41
+               20865946
+               Effects of singing classes on pulmonary function and quality of life of COPD patients
+                  Bonilha
+                  AG
+                  Onofre
+                  F
+                  Vieira
+                  ML
+                  Prado
+                  MY
+                  Martinez
+                  JA
+            Int J Chron Obstruct Pulmon Dis
+            2009
+            4
+            1
+            1
+            8
+                  2672787
+                  19436683
+               Singing teaching as a therapy for chronic respiratory disease&#8211;a randomised controlled trial and qualitative evaluation
+                  Lord
+                  VM
+                  Cave
+                  P
+                  Hume
+                  VJ
+                  Flude
+                  EJ
+                  Evans
+                  A
+                  Kelly
+                  JL
+                  Polkey
+                  MI
+                  Hopkinson
+                  NS
+            BMC Pulm Med
+            2010
+            10
+            41
+                  10.1186/1471-2466-10-41
+                  2920262
+                  20682030
+               The singer's breath: implications for treatment of persons with emphysema
+                  Engen
+                  RL
+            J Music Ther
+            2005
+            42
+            1
+            20
+            48
+               15839731
+               IMPRESS Guide to pulmonary rehabilitation
+                  British Thoracic Society
+            British Thoracic Society Reports
+            2011
+            3
+            2
+               Social Relationships and Mortality Risk: A Meta-analytic Review
+                  Holt-Lunstad
+                  J
+                  Smith
+                  TB
+                  Layton
+                  JB
+            PLoS Med
+            2010
+            7
+            7
+            e1000316
+                  10.1371/journal.pmed.1000316
+                  2910600
+                  20668659
+               Factors associated with good self-rated health and quality of life in subjects with self-reported COPD
+                  Arne
+                  M
+                  Lundin
+                  F
+                  Boman
+                  G
+                  Janson
+                  C
+                  Janson
+                  S
+                  Emtner
+                  M
+            Int J Chron Obstruct Pulmon Dis
+            2011
+            6
+            511
+            519
+                  3206767
+                  22069362
+               The validity of the Hospital Anxiety and Depression Scale: an updated literature review
+                  Bjelland
+                  I
+                  Dahl
+                  AA
+                  Haug
+                  TT
+                  Neckelmann
+                  D
+            J Psychosom Res
+            2002
+            52
+            2
+            69
+            77
+                  10.1016/S0022-3999(01)00296-3
+                  11832252
+               Development and first validation of the COPD Assessment Test
+                  Jones
+                  PW
+                  Harding
+                  G
+                  Berry
+                  P
+                  Wiklund
+                  I
+                  Chen
+                  WH
+                  Kline Leidy
+                  N
+            Eur Respir J
+            2009
+            34
+            3
+            648
+            654
+                  10.1183/09031936.00102509
+                  19720809
+               Overview of the SF-36 Health Survey and the International Quality of Life Assessment (IQOLA) Project
+                  Ware
+                  JE
+                  Jr
+                  Gandek
+                  B
+            J Clin Epidemiol
+            1998
+            51
+            11
+            903
+            912
+                  10.1016/S0895-4356(98)00081-X
+                  9817107
+               Development of a shuttle walking test of disability in patients with chronic airways obstruction
+                  Singh
+                  SJ
+                  Morgan
+                  MD
+                  Scott
+                  S
+                  Walters
+                  D
+                  Hardman
+                  AE
+            Thorax
+            1992
+            47
+            12
+            1019
+            1024
+                  10.1136/thx.47.12.1019
+                  1021093
+                  1494764
+               Physiological and conventional breath-hold breaking points
+                  Lin
+                  YC
+                  Lally
+                  DA
+                  Moore
+                  TO
+                  Hong
+                  SK
+            J Appl Physiol
+            1974
+            37
+            3
+            291
+            296
+               4415069
+               Breath-holding in healthy and pulmonary-compromised populations: effects of hyperventilation and oxygen inspiration
+                  Marks
+                  B
+                  Mitchell
+                  DG
+                  Simelaro
+                  JP
+            J Magn Reson Imaging
+            1997
+            7
+            3
+            595
+            597
+                  10.1002/jmri.1880070323
+                  9170048
+               Clinically Important Changes in Health-related Quality of Life for Patients with Chronic Obstructive Pulmonary Disease. An Expert Consensus Panel Report.
+                  Wyrwich
+                  KW
+                  Fihn
+                  SD
+                  Tierney
+                  WM
+                  Kroenke
+                  K
+                  Babu
+                  AN
+                  Wolinsky
+                  FD
+            Journal of general internal medicine
+            2003
+            18
+            3
+            196
+            202
+                  10.1046/j.1525-1497.2003.20203.x
+                  1494834
+                  12648251
+               Corticospinal control of respiratory muscles in chronic obstructive pulmonary disease
+                  Hopkinson
+                  NS
+                  Sharshar
+                  T
+                  Ross
+                  ET
+                  Nickol
+                  AH
+                  Dayer
+                  MJ
+                  Porcher
+                  R
+                  Jonville
+                  S
+                  Moxham
+                  J
+                  Polkey
+                  MI
+            Respir Physiol Neurobiol
+            2004
+            141
+            1
+            1
+            12
+                  10.1016/j.resp.2004.04.003
+                  15234671
+               Pathophysiology of Dyspnea in Chronic Obstructive Pulmonary Disease: A Roundtable
+                  O'Donnell
+                  DE
+                  Banzett
+                  RB
+                  Carrieri-Kohlman
+                  V
+                  Casaburi
+                  R
+                  Davenport
+                  PW
+                  Gandevia
+                  SC
+                  Gelb
+                  AF
+                  Mahler
+                  DA
+                  Webb
+                  KA
+            Proc Am Thorac Soc
+            2007
+            4
+            2
+            145
+            168
+                  10.1513/pats.200611-159CC
+                  17494725
+               Neural respiratory drive in healthy subjects and in COPD
+                  Jolley
+                  CJ
+                  Luo
+                  YM
+                  Steier
+                  J
+                  Reilly
+                  C
+                  Seymour
+                  J
+                  Lunt
+                  A
+                  Ward
+                  K
+                  Rafferty
+                  GF
+                  Polkey
+                  MI
+                  Moxham
+                  J
+            Eur Respir J
+            2009
+            33
+            2
+            289
+            297
+               18829678
+               The effect of acute non-invasive ventilation on corticospinal pathways to the respiratory muscles in chronic obstructive pulmonary disease
+                  Hopkinson
+                  NS
+                  Sharshar
+                  T
+                  Dayer
+                  MJ
+                  Lofaso
+                  F
+                  Moxham
+                  J
+                  Polkey
+                  MI
+            Respiratory Physiology &amp;amp; Neurobiology
+            2012
+            183
+            1
+            41
+            47
+                  10.1016/j.resp.2012.05.018
+                  23154055
+               Quadriceps wasting and physical inactivity in patients with COPD
+                  Shrikrishna
+                  D
+                  Patel
+                  M
+                  Tanner
+                  RJ
+                  Seymour
+                  JM
+                  Connolly
+                  BA
+                  Puthucheary
+                  ZA
+                  Walsh
+                  SLF
+                  Bloch
+                  SA
+                  Sidhu
+                  PS
+                  Hart
+                  N
+            Eur Respir J
+            2012
+            40
+            1115
+            1122
+                  10.1183/09031936.00170111
+                  22362854
+               Does physical inactivity cause chronic obstructive pulmonary disease?
+                  Hopkinson
+                  NS
+                  Polkey
+                  MI
+            Clin Sci (Lond)
+            2010
+            118
+            9
+            565
+            572
+               Physical Activity and Clinical and Functional Status in COPD
+                  Garcia-Aymerich
+                  J
+                  Serra
+                  I
+                  Gomez
+                  FP
+                  Farrero
+                  E
+                  Balcells
+                  E
+                  Rodriguez
+                  DA
+                  de Batlle
+                  J
+                  Gimeno
+                  E
+                  Donaire-Gonzalez
+                  D
+                  Orozco-Levi
+                  M
+            Chest
+            2009
+            136
+            1
+            62
+            70
+                  10.1378/chest.08-2532
+                  19255291
+               Pulmonary rehabilitation for chronic obstructive pulmonary disease
+                  Lacasse
+                  Y
+                  Goldstein
+                  R
+                  Lasserson
+                  TJ
+                  Martin
+                  S
+            Cochrane Database Syst Rev
+            2006
+            4
+            CD0037
+            Pre-publication history
+         The pre-publication history for this paper can be accessed here:
+         http://www.biomedcentral.com/1471-2466/12/69/prepub
+
