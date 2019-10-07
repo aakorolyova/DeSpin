@@ -395,7 +395,7 @@ class Annotate( object ):
 				self.doc.add_rel( out_rel )	
 
 		else:
-			self.find_po(parser = preann_parser)
+			self.find_po() #parser = preann_parser)
 
 
 		if len(outcomes_not_matched) > 0:
