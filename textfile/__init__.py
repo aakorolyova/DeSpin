@@ -2950,7 +2950,7 @@ class textfile:
 				print("There is no corresponding reported outcomes in the abstract for the following primary outcomes: ", out_not_matched_final )
 				meta = meta + "There is no corresponding reported outcomes in the abstract for the following primary outcomes:\n"
 				for out in out_not_matched_final:
-					meta += out[0] + '\n'
+					meta += out + '\n'
 
 			else:
 				print("All primary outcomes are reported correctly")
