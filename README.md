@@ -12,7 +12,7 @@ DeSpinDir/models/<task_name>, where task_name is one of the following: out_sig_r
 3) Download BioBERT pre-trained model weigths (https://github.com/naver/biobert-pretrained/releases). We used v1.0-pubmed-pmc - Pre-trained weight of BioBERT v1.0 (+PubMed 200K +PMC 270K).
 4) Download SciBERT pre-trained model weigths for tensorflow (https://github.com/allenai/scibert), scibert-scivocab-uncased model.
 5) In the file DeSpinDir/ak_pc_config.cfg, specify the paths for BioBERT and SciBERT models, in the variables BioBERT_model and SciBERT_model, respectively.
-6) The following dependencies are needed to run the system: \n
+6) The following dependencies are needed to run the system: \\
 nltk3.4
 numpy1.16.4
 pandas0.24.1
